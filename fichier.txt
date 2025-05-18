@@ -1,1 +1,1 @@
-Modification concurrente depuis main
+Ligne B depuis feature_conflicte
