@@ -1,1 +1,1 @@
-Ligne B depuis feature_conflicte
+Ligne A depuis hi_conflict
